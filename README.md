@@ -1,2 +1,2 @@
-# ![alt text](http://url/to/demo.png)
+# youtube/demo.png
 
