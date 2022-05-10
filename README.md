@@ -1,2 +1,2 @@
-# solid-pancake
+# ![alt text](http://url/to/demo.png)
 
